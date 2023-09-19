@@ -122,7 +122,7 @@
 .btns {
     max-width: 408px;
     display: flex;
-    justify-content: space-between;
+    gap: 20px;
 }
 
 .btn {
@@ -307,4 +307,8 @@
     margin-top: 25px;
     display: flex;
     gap: 24px;
+}
+
+.little-logo {
+    margin-right: 10px;
 }
